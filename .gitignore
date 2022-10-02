@@ -1,0 +1,4 @@
+node_modules
+
+# node modules wont be tracked by git
+# heroku auto install modules when deployed
